@@ -1,0 +1,1 @@
+Using loops and arrays to generate all possible combinations of a domain.
